@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>specific_field</name>
+        <rest_message_function display_value="GetIPHost">74fd2e62db50001059c69235ca961946</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-08 04:19:21</sys_created_on>
+        <sys_id>e20eeaa2db50001059c69235ca961970</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>specific_field</sys_name>
+        <sys_package display_value="IPLookup" source="x_88242_iplookup">4aa8b815db54001059c69235ca9619d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">4aa8b815db54001059c69235ca9619d8</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_e20eeaa2db50001059c69235ca961970</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-08 04:20:02</sys_updated_on>
+        <type>string</type>
+        <value>hostname</value>
+    </sys_rest_message_fn_parameters>
+</record_update>
